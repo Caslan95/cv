@@ -105,14 +105,14 @@ a:hover {
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 100px;
+  right: 18.75rem;
+  top: 6.25rem;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 500px;
-  top: 400px;
+  left: 31.25rem;
+  top: 25rem;
 }
 
 .copyright {
